@@ -22,7 +22,7 @@ Para realizar la extracción de información se debe ejecutar los archivos extra
 python extract_clients.py 
 python extract_sales.py
 ```
-### Analysis
+### Análisis
 El análisis de datos se realizó utilizando jupyter notebook para ellos debes ejecutar tu ambiente de conda o tu entorno virtual de preferencia y ejecutar el siguiente comando
 
 ```
